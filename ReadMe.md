@@ -1,6 +1,14 @@
-# Print-It WebSite v.1
+# Project 5
 
-### GitHub
-[Suivi du rendu des projets](https://boutzi.github.io/openclassrooms/)  
+## Print it
 
-[Suivi du code des projets](https://github.com/Boutzi/openclassrooms/tree/main/integrateur-web)  
+Getting Started with JavaScript
+
+## Installation
+
+### Clone the Repository
+```bash
+    git clone https://github.com/Boutzi/oc-integrateur-web-p5.git
+```
+### Start the project
+open **index.html** with Live Server
